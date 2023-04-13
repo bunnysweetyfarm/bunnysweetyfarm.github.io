@@ -1,0 +1,33 @@
+
+.class { behavior:url(js/PIE.htc); position:absolute;}
+
+.img_box{
+	behavior:url(js/PIE.htc);
+	position: relative;
+	box-shadow: 0px 5px 5px 0px rgba(50, 50, 50, 0.75);
+	}
+
+.img_box:after{
+	width: 100%;
+	left: 0px;
+	bottom: -14px;
+	height: 20px;
+	background: none;
+	
+	}
+#form1 input {
+	width: 450px;
+	}
+
+.second_social li a { behavior:url(js/PIE.htc); position: relative;}
+
+#form .error-message,
+#form .empty-message{
+filter:alpha(opacity=0);
+}
+#form .invalid .error-message, #form .empty .empty-message, #thumbs .touch_box:hover span:after{
+filter:alpha(opacity=100); }
+
+.dorder_box, .dorder_box_img, #thumbs .touch_box span{
+	filter:alpha(opacity=20);
+	}

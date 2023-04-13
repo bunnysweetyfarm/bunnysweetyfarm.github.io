@@ -1,0 +1,8 @@
+List of Fonts used in template 
+
+
+
+Asap			http://www.google.com/fonts/specimen/Asap
+Cutive			http://www.google.com/fonts/specimen/Cutive
+Font Awesome		http://fortawesome.github.io/Font-Awesome
+Lato			http://www.google.com/fonts/specimen/Lato
